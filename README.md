@@ -1,3 +1,6 @@
+you won't able to read shit man download it i'm too lazy to edit it honstly :)
+
+
 $author = "(moscow)"
 $date = "23/4/2022"
 $copyright = @CopyRight All rights recived to (Moscow) @2022
